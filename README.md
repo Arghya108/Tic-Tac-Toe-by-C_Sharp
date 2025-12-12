@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-by-C-
+# Tic-Tac-Toe-by-C_sharp
 A simple C# game...
